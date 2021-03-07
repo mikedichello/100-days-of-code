@@ -17,3 +17,11 @@
 
 **Link(s) to work**: [Udemy CSS Class](https://github.com/mikedichello/udemy-css)
 [ShuffleUp (working title)](https://github.com/mikedichello/ShuffleUp)
+
+### Day 2: March 7th, 2021
+
+**Today's Progress**: worked on shuffleUp to add discard function
+
+**Thoughts**: i need to review vanilla JS DOM manipulation, I have relied on react a lot.
+
+**Link(s) to work**: [ShuffleUp (working title)](https://github.com/mikedichello/ShuffleUp)
