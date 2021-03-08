@@ -25,3 +25,11 @@
 **Thoughts**: i need to review vanilla JS DOM manipulation, I have relied on react a lot.
 
 **Link(s) to work**: [ShuffleUp (working title)](https://github.com/mikedichello/ShuffleUp)
+
+### Day 3: March 8th, 2021
+
+**Today's Progress**: completed discard function so that card elements move to discard element
+
+**Thoughts**: really good productive day on the app. started playing with figma to get my hands dirty in design tools.
+
+**Link(s) to work**: [ShuffleUp (working title)](https://github.com/mikedichello/ShuffleUp)
