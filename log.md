@@ -33,3 +33,11 @@
 **Thoughts**: really good productive day on the app. started playing with figma to get my hands dirty in design tools.
 
 **Link(s) to work**: [ShuffleUp (working title)](https://github.com/mikedichello/ShuffleUp)
+
+### Day 4: March 9th, 2021
+
+**Today's Progress**: fixed discard function in ShuffleUp and completed section 9 of CSS course
+
+**Thoughts**: great to dedicate more than 1 hour to fun projects. Getting some really good experience working on a team with Chaz, and managing a trello board and communication.
+
+**Link(s) to work**: [ShuffleUp (working title)](https://github.com/mikedichello/ShuffleUp)
