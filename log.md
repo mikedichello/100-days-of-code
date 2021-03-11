@@ -41,3 +41,11 @@
 **Thoughts**: great to dedicate more than 1 hour to fun projects. Getting some really good experience working on a team with Chaz, and managing a trello board and communication.
 
 **Link(s) to work**: [ShuffleUp (working title)](https://github.com/mikedichello/ShuffleUp)
+
+### Day 5: March 10th, 2021
+
+**Today's Progress**: created deck and card classes. utilized destructuring to create using the deck method.
+
+**Thoughts**: awesome practice of peer programming with Chaz to move some tickets to done.
+
+**Link(s) to work**: [ShuffleUp (working title)](https://github.com/mikedichello/ShuffleUp)
