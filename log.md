@@ -49,3 +49,11 @@
 **Thoughts**: awesome practice of peer programming with Chaz to move some tickets to done.
 
 **Link(s) to work**: [ShuffleUp (working title)](https://github.com/mikedichello/ShuffleUp)
+
+### Day 6: March 11th, 2021
+
+**Today's Progress**: Worked on design elements for MVP of ShuffleUp (working title) using Figma
+
+**Thoughts**: Trying to translate the vision in my head into a visual media like Figma is difficult. Learning new tools is very helpful.
+
+**Link(s) to work**: [ShuffleUp (working title)](https://github.com/mikedichello/ShuffleUp)
