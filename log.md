@@ -44,8 +44,25 @@
 
 ### Day 5: March 10th, 2021
 
-**Today's Progress**: created deck and card classes. utilized destructuring to create using the deck method.
+**Today's Progress**: created deck and card classes. utilized destructuring to create cards using the method in the deck class.
 
 **Thoughts**: awesome practice of peer programming with Chaz to move some tickets to done.
 
 **Link(s) to work**: [ShuffleUp (working title)](https://github.com/mikedichello/ShuffleUp)
+
+### Day 6: March 11th, 2021
+
+**Today's Progress**: created deck and card classes. utilized destructuring to create cards using the method in the deck class.
+
+**Thoughts**: awesome practice of peer programming with Chaz to move some tickets to done.
+
+**Link(s) to work**: [ShuffleUp (working title)](https://github.com/mikedichello/ShuffleUp)
+
+### Day 7: March 12th, 2021
+
+**Today's Progress**: Section 10 of CSS course complete
+
+**Thoughts**: Focused on mobile-first design and responsiveness
+
+**Link(s) to work**: [Udemy-CSS](https://github.com/mikedichello/udemy-css)
+
