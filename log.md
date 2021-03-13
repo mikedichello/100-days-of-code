@@ -52,13 +52,21 @@
 
 ### Day 6: March 11th, 2021
 
+**Today's Progress**: Worked on design elements for MVP of ShuffleUp (working title) using Figma
+
+**Thoughts**: Trying to translate the vision in my head into a visual media like Figma is difficult. Learning new tools is very helpful.
+
+**Link(s) to work**: [ShuffleUp (working title)](https://github.com/mikedichello/ShuffleUp)
+
+### Day 7: March 12th, 2021
+
 **Today's Progress**: created deck and card classes. utilized destructuring to create cards using the method in the deck class.
 
 **Thoughts**: awesome practice of peer programming with Chaz to move some tickets to done.
 
 **Link(s) to work**: [ShuffleUp (working title)](https://github.com/mikedichello/ShuffleUp)
 
-### Day 7: March 12th, 2021
+### Day 8: March 13th, 2021
 
 **Today's Progress**: Section 10 of CSS course complete
 
