@@ -74,3 +74,11 @@
 
 **Link(s) to work**: [Udemy-CSS](https://github.com/mikedichello/udemy-css)
 
+### Day 9: March 14th, 2021
+
+**Today's Progress**: Section 11 of CSS course complete
+
+**Thoughts**: Focused on form styles
+
+**Link(s) to work**: [Udemy-CSS](https://github.com/mikedichello/udemy-css)
+
