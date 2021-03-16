@@ -82,3 +82,11 @@
 
 **Link(s) to work**: [Udemy-CSS](https://github.com/mikedichello/udemy-css)
 
+### Day 10: March 15th, 2021
+
+**Today's Progress**: Section 12 of CSS course started
+
+**Thoughts**: Font-styling, font-familes, custom fonts
+
+**Link(s) to work**: [Udemy-CSS](https://github.com/mikedichello/udemy-css) utilizing [Google Fonts](https://fonts.google.com/)
+
