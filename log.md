@@ -90,3 +90,11 @@
 
 **Link(s) to work**: [Udemy-CSS](https://github.com/mikedichello/udemy-css) utilizing [Google Fonts](https://fonts.google.com/)
 
+### Day 11: March 16th, 2021
+
+**Today's Progress**: Section 12 of CSS course completed font-decoration, font shorthand
+
+**Thoughts**: I need to train my design muscles so I can utilize this CSS class more effectively.
+
+**Link(s) to work**: [Udemy-CSS](https://github.com/mikedichello/udemy-css)
+
