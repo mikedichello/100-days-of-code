@@ -98,3 +98,10 @@
 
 **Link(s) to work**: [Udemy-CSS](https://github.com/mikedichello/udemy-css)
 
+### Day 12: March 17th, 2021
+
+**Today's Progress**: Starting CSS Flex section
+
+**Thoughts**: Wearing green for St Patrick's Day!
+
+**Link(s) to work**: [Udemy-CSS](https://github.com/mikedichello/udemy-css)
