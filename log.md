@@ -105,3 +105,11 @@
 **Thoughts**: Wearing green for St Patrick's Day!
 
 **Link(s) to work**: [Udemy-CSS](https://github.com/mikedichello/udemy-css)
+
+### Day 13: March 18th, 2021
+
+**Today's Progress**: worked on ShuffleUp, met with Chaz
+
+**Thoughts**: It was nice to apply what I learned this week in my CSS course to a project I am passionate about. tried to use some Neumorphism techniques I found online.
+
+**Link(s) to work**: [ShuffleUp (working title)](https://github.com/mikedichello/ShuffleUp)
