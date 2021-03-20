@@ -113,3 +113,11 @@
 **Thoughts**: It was nice to apply what I learned this week in my CSS course to a project I am passionate about. tried to use some Neumorphism techniques I found online.
 
 **Link(s) to work**: [ShuffleUp (working title)](https://github.com/mikedichello/ShuffleUp)
+
+### Day 14: March 19th, 2021
+
+**Today's Progress**: Continued with Flexbox on CSS class
+
+**Thoughts**: This week was crazy at work. It was nice to relax, learn and watch a bunch of modules on udemy.
+
+**Link(s) to work**: [ShuffleUp (working title)](https://github.com/mikedichello/ShuffleUp)
