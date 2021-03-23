@@ -121,3 +121,11 @@
 **Thoughts**: This week was crazy at work. It was nice to relax, learn and watch a bunch of modules on udemy.
 
 **Link(s) to work**: [ShuffleUp (working title)](https://github.com/mikedichello/ShuffleUp)
+
+### Day 15: March 23rd, 2021
+
+**Today's Progress**: Completed Section 13 CSS Flex
+
+**Thoughts**: Got caught up with my job, and was not able to complete 100days for 3 days. I must commit to some over none. Coding a bit is better than not at all.
+
+**Link(s) to work**: [ShuffleUp (working title)](https://github.com/mikedichello/ShuffleUp)
