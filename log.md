@@ -129,3 +129,11 @@
 **Thoughts**: Got caught up with my job, and was not able to complete 100days for 3 days. I must commit to some over none. Coding a bit is better than not at all.
 
 **Link(s) to work**: [ShuffleUp (working title)](https://github.com/mikedichello/ShuffleUp)
+
+### Day 16: March 24th, 2021
+
+**Today's Progress**: Starting to learn grid
+
+**Thoughts**: I can see the differences in grid vs flexbox and can think of a few examples where one may be better than the other
+
+**Link(s) to work**: [ShuffleUp (working title)](https://github.com/mikedichello/ShuffleUp)
