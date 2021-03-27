@@ -137,3 +137,11 @@
 **Thoughts**: I can see the differences in grid vs flexbox and can think of a few examples where one may be better than the other
 
 **Link(s) to work**: [ShuffleUp (working title)](https://github.com/mikedichello/ShuffleUp)
+
+### Day 17: March 27th, 2021
+
+**Today's Progress**: Complete section 14 CSS Grid
+
+**Thoughts**: Got my 2nd covid vaccine and it kicked my butt
+
+**Link(s) to work**: [ShuffleUp (working title)](https://github.com/mikedichello/ShuffleUp)
